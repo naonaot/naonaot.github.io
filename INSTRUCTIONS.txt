@@ -1,0 +1,20 @@
+NAOTEXT - Instructions de configuration
+
+1. LOGO
+   - Placez votre fichier logo1.png dans le dossier assets/images/
+   - Dimensions recommandées : 100x100px ou 200x200px
+   - Format : PNG transparent de préférence
+
+2. LANGUES
+   - Le sélecteur de langue est actif en haut à droite
+   - Actuellement supportées : Français (FR) et Anglais (EN)
+   - Les traductions sont dans assets/js/lang.js
+   - Pour ajouter une langue : ajouter une clé dans l'objet translations
+
+3. MODIFIER LE CONTENU
+   - Textes : modifier les attributs data-i18n dans index.html
+   - Styles : modifier assets/css/main.css
+   - Ajouter des images dans assets/images/
+
+4. OUVRIR LE SITE
+   - Double-cliquez sur index.html ou ouvrez-le dans votre navigateur
