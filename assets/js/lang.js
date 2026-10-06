@@ -3,7 +3,7 @@ const translations = {
     title: "NAOTEXT",
     subtitle: "Automatiser la confection",
     expertise: "Notre Objectif",
-    about1: "NAOTEXT a pour but de founir des solutions de couture automatiques, clés en main, pour les ateliers de confections de vêtements.",
+    about1: "NAOTEXT a pour but de fournir des solutions de couture automatiques, clés en main, pour les ateliers de confections de vêtements.",
     about2: "Nous développons actuellement notre premier modèle capable d'automatiser jusqu'à 30% des étapes de coutures !",
     discover: "Découvrir",
     learn: "En savoir plus",
