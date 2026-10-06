@@ -21,6 +21,7 @@ html, body {
   font-weight: 600;
   color: var(--dark-grey);
   background: var(--cream-beige);
+  zoom = 120%;
 }
 
 header {
@@ -78,7 +79,7 @@ header::after {
   right: 0;
   bottom: 0;
   background: var(--golden-yellow);
-  clip-path: polygon(0 68%, 15% 85%, 100% 85%, 100% 96%, 15% 96%, 0% 75%);
+  clip-path: polygon(0 72%, 15% 89%, 100% 89%, 100% 96%, 15% 96%, 0% 75%);
   z-index: 1;
 }
 
@@ -90,6 +91,17 @@ header::after {
   bottom: 0;
   background: var(--sage-green);
   clip-path: polygon(0 75%,15% 92%,100% 92%,100% 100%, 15% 100%, 0% 83%);
+  z-index: 2;
+}
+
+.header-green-band {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: var(--forest-green);
+  clip-path: polygon(0 75%,15% 92%,100% 92%,100% 94%, 15% 94%, 0% 76%);
   z-index: 2;
 }
 
@@ -128,7 +140,7 @@ header::after {
 }
 
 .header-logo {
-  max-width: 150px;
+  max-width: 250px;
   height: auto;
   margin: 0 auto 30px;
   display: block;
@@ -210,7 +222,7 @@ section {
 }
 
 .section-dark .content-text h3 {
-  color: var(--pure-white);
+  color: var(--golden-yellow);
 }
 
 .content-text p {
@@ -279,11 +291,11 @@ section {
 .icon-item h4 {
   margin: 15px 0 10px 0;
   color: var(--forest-green);
-  font-size: 1.2em;
+  font-size: 2em;
 }
 
 .section-dark .icon-item h4 {
-  color: var(--pure-white);
+  color: var(--golden-yellow);
 }
 
 .icon-item p {

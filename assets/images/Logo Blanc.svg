@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="6000 2000 16000 12000" width="1600" height="1200" fill-rule="evenodd" stroke-linejoin="round">
+  <rect x="6000" y="2000" width="16000" height="12000" fill="#0b3d2e"/>
+  <circle cx="14000.5" cy="8000.5" r="4000.5" fill="none" stroke="#f7f7ef" stroke-width="100" stroke-linecap="round" stroke-dasharray="701 399"/>
+  <circle cx="14000.5" cy="8000.5" r="4500.5" fill="none" stroke="#f7f7ef" stroke-width="200"/>
+  <path d="M11500 5500 L11999 5500 13499 9500 13000 9500 Z" fill="#0b3d2e" stroke="#f7f7ef" stroke-width="100"/>
+  <path d="M11500 5500 L12000 5500 12000 9500 11500 10500 Z" fill="#0b3d2e" stroke="#f7f7ef" stroke-width="100"/>
+  <path d="M13000 9500 L13500 9500 13500 4500 13000 5500 Z" fill="#0b3d2e" stroke="#f7f7ef" stroke-width="100"/>
+  <path d="M14000 6500 L16500 6500 16500 6974 15500 6974 15500 10289 C15417 10526 15333 10763 15250 11000 15167 10763 15083 10526 15000 10289 L15000 6974 14000 6974 Z" fill="#0b3d2e" stroke="#f7f7ef" stroke-width="100"/>
+</svg>
